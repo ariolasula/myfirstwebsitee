@@ -1,0 +1,168 @@
+body{
+	border:collapse;
+	margin:0%;
+	padding:0%;
+	width:100%;
+	height:100%;
+}
+header
+{
+position:center;
+height: 100%;
+background:#fff url(https://images.pexels.com/photos/11276354/pexels-photo-11276354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center center;
+background-size:cover;
+
+	margin:0%;
+	padding:0%;
+}
+html{
+	font-family:Times New Roman
+
+	
+}
+
+h1{
+	font-size:150%;
+	color:white;
+	width:60%;
+	text-align:justify;
+	margin-left:17.5%;
+	margin-top:0.25%;
+background-color: rgba(00, 00, 00, .8);
+	padding:2.5%;
+	box-shadow:  3px  3px 5px #000000,
+              -3px -3px 5px #000000,
+               3px -3px 5px #000000,
+              -3px  3px 5px #000000;
+	line-height:130%;
+}
+.top{
+	font-size:300%;
+	text-align:center;
+	padding:4%;
+	color:white;
+}
+
+h2{
+	font-size:130%;
+	color:white;
+	width:70%;
+	text-align:justify;
+}
+h3{
+	padding-bottom:1%;
+	border-bottom:solid;
+}
+img {
+	width:100%;
+}
+
+.container {
+ position: relative;
+ text-align: center;
+ color: white;
+ margin:0%;
+}
+
+
+.bottom-left {
+ position: absolute;
+ bottom:15%;
+ left: 0%;
+ font-size: 350%;
+ border:solid;
+ background-color: rgba(00, 00, 00, .8);
+ width:30%;
+ text-align:left;
+ border-left:none;
+}
+table {
+  width:100%;
+  border-collapse: collapse;
+  table-layout:fixed;
+  	margin-top:0%;
+  
+  	
+}
+tr{
+	width:100%;
+		margin-top:0%;
+}
+th{
+	width:100%;
+	background-color:#FFFFFF;
+	text-align:center;
+	font-size:150%;
+	margin:0%;
+		margin-top:0%;
+}
+td{
+	width:100%;
+	text-align:center;
+	padding-top:2%;
+	padding-bottom:2%;
+		font-size:140%;
+		
+}
+.td{
+	width:100%;
+	text-align:center;
+	padding-top:1%;
+	padding-bottom:1%;
+		font-size:100%;
+		
+}
+.last{
+		width:100%;
+	text-align:center;
+	padding-top:2%;
+	padding-bottom:2%;
+		font-size:140%;
+			line-height:120%;
+
+		
+}
+
+button {
+	background-color:#FFFFFF;
+	border:none;
+	padding:2% 10%;
+	margin-top:0%;
+	text-align:center;
+	font-size:100%;
+	width:100%;
+}
+button:hover{
+	background-color:#000000;
+	color:#ffffff;
+}
+p{
+	margin-top:0.25%;
+	padding-top:2%;
+	margin-bottom:0%;
+}
+.arg{
+	font-size:150%;
+	color:white;
+	width:70%;
+	text-align:justify;
+	margin-left:12.5%;
+	margin-top:0.25%;
+ background-color: rgba(00, 00, 00, .8);
+	padding:2.5%;
+	padding-top:1%;
+	box-shadow:  3px  3px 5px #000000,
+              -3px -3px 5px #000000,
+               3px -3px 5px #000000,
+              -3px  3px 5px #000000;
+	line-height:130%;
+}
+.banner{
+	background-color:white;
+		margin-top:0%;
+		height:250%;
+}
+.artista{
+	width:50%;
+	margin-left:25%;	
+}
